@@ -54,6 +54,13 @@ I'm a cybersecurity-focused Computer Science student with hands-on experience in
 - Practiced ethical hacking techniques in isolated environment
 - **Skills:** Nmap · Metasploit · Wireshark Analysis
 
+### 4. [Linux File Permissions Management](./linux-file-permissions-demo/README.md)
+🔐 **Linux File & Directory Permissions Hardening**  
+- Audited and updated file permissions using `ls` and `chmod`
+- Ensured compliance with least-privilege principles
+- Documented permission string meanings and command usage
+- **Skills:** Linux · Bash Scripting · OS Hardening
+  
 ## 📚 Education
 **Bachelor of Computer Science** (Expected 2027)  
 Sadat Academy for Management Sciences | Cairo, Egypt
