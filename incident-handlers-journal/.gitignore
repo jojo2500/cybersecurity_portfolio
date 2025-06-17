@@ -1,0 +1,7 @@
+# Ignore system files and sensitive content
+*.log
+*.pcap
+*.tmp
+.DS_Store
+Thumbs.db
+assets/secrets/
