@@ -40,14 +40,14 @@ I'm a cybersecurity-focused Computer Science student with hands-on experience in
 - Recommended RBAC implementation and encryption upgrades
 - **Skills:** Risk Assessment · Compliance Mapping · Technical Documentation
 
-### 2. [API Security Testing Lab]
+### 2. API Security Testing Lab
 🔓 **OWASP Top 10 Vulnerabilities Research**  
 - Explored server-side parameter pollution and mass assignment flaws
 - Used PortSwigger's Web Security Academy for hands-on testing
 - Documented mitigation strategies for common API threats
 - **Skills:** Burp Suite · Vulnerability Research · Secure Coding
 
-### 3. [Network Pentest Lab]
+### 3. Network Pentest Lab
 🌐 **Kali Linux-Based Security Assessment**  
 - Performed network reconnaissance with Nmap
 - Executed vulnerability scans with OpenVAS
@@ -60,7 +60,23 @@ I'm a cybersecurity-focused Computer Science student with hands-on experience in
 - Ensured compliance with least-privilege principles
 - Documented permission string meanings and command usage
 - **Skills:** Linux · Bash Scripting · OS Hardening
-  
+
+### 5. [IP Allow List Updater](./ip-allowlist-updater/README.md)
+🛡️ **Automated Access Control via Python Script**  
+- Developed a Python algorithm to manage allow/deny lists for sensitive healthcare records
+- Script reads an allow-list file, compares it to a remove-list, and updates access automatically
+- Demonstrates secure file handling, list manipulation, and basic access control automation
+- **Skills:** Python · File Handling · Access Control
+
+### 6. [Incident Handler's Journal](./incident-handlers-journal/README.md)
+📓 **Cybersecurity Incident Response & Tooling Notes**  
+- Personal journal of hands-on incident handling activities, tool notes, and analysis
+- Includes real-world and simulated case logs, tool explorations, and lessons learned
+- Provides a template for structured incident reporting and analysis
+- **Skills:** Incident Response · Documentation · Security Analysis
+
+---
+
 ## 📚 Education
 **Bachelor of Computer Science** (Expected 2027)  
 Sadat Academy for Management Sciences | Cairo, Egypt
